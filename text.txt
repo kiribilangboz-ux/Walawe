@@ -1,1 +1,47 @@
-yugosedi49@alang.store
+--------=========== PACK SETTINGS ===========--------
+autobuypack = true              -- Automatically buying a pack
+hargapack = 45000               -- Pack Price
+MinGems = 47000             -- Minimum Gems for Buying Pack
+namapack = "surg_value_pack" -- Pack Name
+MinItemPack = 1                -- Bot will dropping the pack when he have X MinItemPack or more
+iditempack = {1258, 1260, 1262, 1264, 1266, 1268, 1270, 4296, 4308, 4310, 4312, 4314, 4316, 4318}              -- Put all your id item pack in here
+maxbuy = 3                      -- Bot will try to buying X times if have more gems
+ID_AcuanDrop_Pack = 12           -- ID Foreground or Background for Drop Pack
+
+Rest_Settings = {
+    enable = true,                              -- Bot will Resting if true
+    interval = 80,                             -- Every 120 Minutes [2 Hours] the Bot will enter Rest Mode [Disconnect]
+    rest = 8                          -- The bot will rest for 5 minutes
+}
+
+MaxPlayerOnline = 700000000                         -- Bot Will Disconnect if Players Online Reach X MaxPlayersOnline [Make it false or 0 if u dont needed]
+
+delayht = 170                   -- Interval Harvesting
+delayplant = 170                -- Interval Planting
+delaypnb = 195                  -- Interval Punch
+delayplace = 135                -- Interval Place
+delayworld = 6000               -- Interval Warping World
+delaydrop = 3000                -- Interval Droping Item
+delaytrash = 1000                -- Interval Trashing Item
+targettrash = 100
+
+SpecialItem = {}                -- Put all your id item special in here
+minSpec = 40                    -- Bot will dropping the item when he have X minSpec or more
+ID_AcuanDrop_Spec = 12           -- ID Foreground or Background for Drop Special Item
+
+PutJammer = false            -- Bot will automatically buying Signal Jammer and Auto Place in PNB World
+SetLevelWorld = 124         -- Bot will automatically set world level in PNB World
+DurasiWorldPNB = 85        -- Auto Change PNB World when Limit Duration
+TilePNB = 5                 -- (1 - 5)
+nLettPNB = 8                -- How Much Letter Name for PNB World
+PNBinFarm = true           -- PNB didalam Farm
+
+KillGhost = false
+
+JedaBanwave = 0
+
+Mods_List = {}
+
+setoran = 140
+
+TargetLevel = 130
