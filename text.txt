@@ -11,7 +11,7 @@ ID_AcuanDrop_Pack = 12           -- ID Foregrond or Background for Drop Pack
 Rest_Settings = {
     enable = true,                              -- Bot will Resting if true
     interval = 80,                             -- Every 120 Minutes [2 Hours] the Bot will enter Rest Mode [Disconnect]
-    rest = 8                          -- The bot will rest for 5 minutes
+    rest = 9                          -- The bot will rest for 5 minutes
 }
 
 MaxPlayerOnline = 700000000                         -- Bot Will Disconnect if Players Online Reach X MaxPlayersOnline [Make it false or 0 if u dont needed]
