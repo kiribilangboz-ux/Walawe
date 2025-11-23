@@ -45,3 +45,5 @@ Mods_List = {}
 setoran = 140
 
 TargetLevel = 130
+
+DelayRecon = 41000
