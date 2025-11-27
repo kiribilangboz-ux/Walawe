@@ -25,8 +25,8 @@ delaydrop = 3000                -- Interval Droping Item
 delaytrash = 1000                -- Interval Trashing Item
 targettrash = 100
 
-SpecialItem = {}                -- Put all your id item special in here
-minSpec = 40                    -- Bot will dropping the item when he have X minSpec or more
+SpecialItem = {10394}                -- Put all your id item special in here
+minSpec = 5                    -- Bot will dropping the item when he have X minSpec or more
 ID_AcuanDrop_Spec = 12           -- ID Foreground or Background for Drop Special Item
 
 PutJammer = false            -- Bot will automatically buying Signal Jammer and Auto Place in PNB World
