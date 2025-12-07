@@ -9,7 +9,7 @@ maxbuy = 3                      -- Bot will try to buying X times if have more g
 ID_AcuanDrop_Pack = 12           -- ID Foregrond or Background for Drop Pack
 
 Rest_Settings = {
-    enable = true,                              -- Bot will Resting if true
+    enable = false,                              -- Bot will Resting if true
     interval = 80,                             -- Every 120 Minutes [2 Hours] the Bot will enter Rest Mode [Disconnect]
     rest = 9                          -- The bot will rest for 5 minutes
 }
