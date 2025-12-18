@@ -1,12 +1,12 @@
 --------=========== PACK SETTINGS ===========--------
 autobuypack = true              -- Automatically buying a pack
-hargapack = 45000               -- Pack Price
-MinGems = 47000             -- Minimum Gems for Buying Pack
-namapack = "surg_value_pack" -- Pack Name
+hargapack = 12500               -- Pack Price
+MinGems = 25000             -- Minimum Gems for Buying Pack
+namapack = "crackers" -- Pack Name
 MinItemPack = 1                -- Bot will dropping the pack when he have X MinItemPack or more
-iditempack = {1258, 1260, 1262, 1264, 1266, 1268, 1270, 4296, 4308, 4310, 4312, 4314, 4316, 4318}              -- Put all your id item pack in here
-maxbuy = 3                      -- Bot will try to buying X times if have more gems
-ID_AcuanDrop_Pack = 12           -- ID Foregrond or Background for Drop Pack
+iditempack = {5402}              -- Put all your id item pack in here
+maxbuy = 4                      -- Bot will try to buying X times if have more gems
+ID_AcuanDrop_Pack = 12           -- ID Foreground or Background for Drop Pack
 
 Rest_Settings = {
     enable = true,                              -- Bot will Resting if true
