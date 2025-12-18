@@ -40,6 +40,8 @@ KillGhost = false
 
 JedaBanwave = 0
 
+SurgPrice = 5               -- How much price for Auto Surg Machine [Put High Price]
+
 Mods_List = {}
 
 setoran = 140
